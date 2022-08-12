@@ -1,0 +1,28 @@
+
+header {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  
+  nav {
+    width: 480px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  nav a {
+    color: #00b39b;
+  }
+  .logoimg{margin-left: 600px;}
+  .logoimg{margin-top: 50px;}
+  .ligne  { 
+    color: #00b39b;
+  }
+   .ligne{margin-left: 300px;}
+  .wrirt{margin-right: 800px;}
+  .wrirt{margin-left: 100px;}
+  .yessim{margin-left:700px ;}
+  .yessim{margin-bottom:200px;}
+
